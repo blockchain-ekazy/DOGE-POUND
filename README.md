@@ -1,3 +1,4 @@
+![The Dog Pound](https://user-images.githubusercontent.com/100062048/155755770-42442f15-7b77-4ef4-88b8-340c949983c9.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
